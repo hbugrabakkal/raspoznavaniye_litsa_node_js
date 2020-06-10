@@ -1,0 +1,7 @@
+{
+  "author": "hbugrabakkal",
+  "license": "MIT",
+  "dependencies": {
+    "face-api.js": "../../"
+  }
+}
